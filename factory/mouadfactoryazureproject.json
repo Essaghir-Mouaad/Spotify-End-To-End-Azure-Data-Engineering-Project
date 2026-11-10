@@ -1,0 +1,15 @@
+{
+	"name": "mouadfactoryazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a17890c2-7c62-4693-90b0-9a9cf7a61e16",
+		"tenantId": "308bc2ee-2561-4855-b8ac-2a01fd350c4b"
+	}
+}
